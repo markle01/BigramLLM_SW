@@ -15,7 +15,7 @@ n_embd = 32
 
 torch.manual_seed(1337)
 
-# wget www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?resource=download
+# wget https://www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?resource=download
 with open('SW_EpisodeV.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
