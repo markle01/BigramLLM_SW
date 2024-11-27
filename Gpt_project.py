@@ -15,7 +15,7 @@ n_embd = 32
 
 torch.manual_seed(1337)
 
-# wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+# wget www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?resource=download
 with open('SW_EpisodeV.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
