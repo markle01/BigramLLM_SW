@@ -205,4 +205,3 @@ print(generated_text)
 print("\n") 
 with open("SW_EpisodeV.txt", "a") as f:
     f.write(generated_text)
-print("Generated text saved to SW_EpisodeV.txt")
