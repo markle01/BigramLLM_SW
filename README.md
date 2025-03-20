@@ -12,6 +12,9 @@
   <h3 align="center">Bigram Language Model</h3>
 </div>
 
+### Project Presentation: 
+https://csulb-my.sharepoint.com/:p:/r/personal/abe_belagasem01_student_csulb_edu/Documents/IS640%20Presentation.pptx?d=wbc6c876a2caa4a978a9ec057d014d6d9&csf=1&web=1&e=bcVGBP
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
